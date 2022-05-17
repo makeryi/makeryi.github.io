@@ -5,6 +5,7 @@ I am Yang Yi @makeryi, a front-end developer.
 You can find me through the following websites:
 
 - [GitHub](https://github.com/makeryi)
+- [Twitter](https://twitter.com/makeryi)
 - [Notion Site](https://makeryi.notion.site)
 - [知乎](https://www.zhihu.com/people/makeryi)
 

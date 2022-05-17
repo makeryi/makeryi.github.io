@@ -2,7 +2,7 @@
 
 I am Yang Yi @makeryi, a front-end developer.
 
-You can find me in the follow websites:
+You can find me in the following websites:
 
 - [GitHub](https://github.com/makeryi)
 - [Notion Site](https://makeryi.notion.site)
